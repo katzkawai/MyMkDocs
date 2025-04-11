@@ -1,0 +1,7 @@
+site_name: MyMkDocs
+theme: readthedocs
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Hello World: hello-world.md
